@@ -1,0 +1,50 @@
+form, #contenu{
+    width: 50%;
+    margin: 5% auto;
+}
+
+#add, #done, #dell{
+    width: 6em;
+    height: 2em;
+}
+
+#add{
+    margin-left : 2em;
+}
+
+input{
+    width: 26em;
+    height: 2em;
+}
+
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+/*LI*/
+.listeLi{
+    margin-right: 2em;
+}
+
+
+/*BOUTON*/
+.boutonDone, .boutonDell{
+    width: 6em;
+    height: 2em;
+    background-color: cadetblue;
+    border-radius: 3px;
+}
+
+.boutonDone{
+    margin-right: 10px;
+}
+
+.mlButton{
+    margin-left: 5%;
+}
+
+
+
+
